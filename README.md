@@ -2,7 +2,7 @@
 
 
 
-# Part 1-
+# Part 1- Data Analysis
 
 Download the Anchorage Municipality property inventory data set located at https://data.muni.org/Housing-and-Homelessness/CAMA-Property-Inventory-Residential-with-Details/r3di-nq2j
 
@@ -16,7 +16,7 @@ c. Mean bedroom count, bathroom count and garage size by year.
 
 Interpret the results in a summary paragraph by providing a narrative hypothesis about the results.
 
-# Part 2-
+# Part 2- Supervised Regression Learning
 Using the data in the Municipality of Anchorage real estate CAMA property inventory data set perform a regression analysis and forecast the number of homes to be constructed each year for the next 10 years (2019-2029).
 
 Perform the analysis and produce the following results:
