@@ -19,7 +19,7 @@ Interpret the results in a summary paragraph by providing a narrative hypothesis
 # Part 2-
 Using the data in the Municipality of Anchorage real estate CAMA property inventory data set perform a regression analysis and forecast the number of homes to be constructed each year for the next 10 years (2019-2029).
 
-Use the Spark machine learning libraries to perform the analysis and produce the following results:
+Perform the analysis and produce the following results:
 
 1. Assumptions used and factors included in the model. How did you select your hypothesis function set?
 
