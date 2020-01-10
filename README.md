@@ -14,7 +14,7 @@ b. Histogram of the duration of ownership.
 
 c. Mean bedroom count, bathroom count and garage size by year.
 
-5. Interpret the results in a summary paragraph by providing a narrative hypothesis about the results.
+Interpret the results in a summary paragraph by providing a narrative hypothesis about the results.
 
 # Part 2-
 Using the data in the Municipality of Anchorage real estate CAMA property inventory data set perform a regression analysis and forecast the number of homes to be constructed each year for the next 10 years (2019-2029).
